@@ -1,0 +1,7 @@
+{
+  "README.md": "b89853442610d0f9185ff2e415f6b26c477e069dbcb24b24d8bdbf0c1befda81",
+  "esp32_decoder.py": "7dae46a5af41e739523d0e7ab17ef46da9f13bcbf65bc9d336e1c0d4626389f1",
+  "testar_usb.sh": "90bb49c2b1b098052e593186bbbacfe02660f0ce79c58f1b253c626c240d2a45",
+  "uart_reader.py": "100a5f2d56a2414be70cbee6a1fa6cfcefc04e06d0a99bfe50804d5f51cf262e",
+  "usb_check.py": "a6c6f986b9826df64d0e3c3dc46aff959d6b943653f407bb5f1fab109b0b5ab1"
+}
